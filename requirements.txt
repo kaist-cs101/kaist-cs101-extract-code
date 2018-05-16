@@ -1,0 +1,1 @@
+-e git+ssh://git@git.elicer.io:2201/elice/python-elice.git@2f1fdb026d38907c73645766c7bfd273fa513df7#egg=python_elice
